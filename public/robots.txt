@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://followauditcue.bastelar.com/sitemap.xml

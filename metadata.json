@@ -1,0 +1,8 @@
+{
+  "name": "FollowAuditCue — Local Instagram 'Not Following Back' Auditor (.ZIP, No Password)",
+  "description": "Audit who doesn't follow you back on Instagram 100% locally in your browser from your official Meta .ZIP export. No password, no login, zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
